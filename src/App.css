@@ -1,11 +1,1 @@
-body {
-  @apply bg-gray-950 text-white;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  @apply font-bold;
-}
-
-p {
-  @apply text-gray-400;
-}
+@import "tailwindcss";
